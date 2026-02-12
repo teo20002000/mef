@@ -29,7 +29,8 @@ function NavBar({setDrawerOpen}) {
             }} />
             <Typography variant="h6" sx={{
                 display: {
-                    xs:"none",
+                    xs:"",
+                    m:"10px",
                     md:"block"
                 }
             }} >Musa eCommerce </Typography>

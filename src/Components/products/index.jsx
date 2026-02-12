@@ -16,8 +16,17 @@ const products =[ {
     {
      title: "Prodotto 4",
     description: "Descrizione prod 4 "
+    },
+    {
+     title: "Prodotto 5",
+    description: "Descrizione prod 5 "
+    },
+    {
+     title: "Prodotto 6",
+    description: "Descrizione prod 6 "
     }
 ]
+
 
 
 
